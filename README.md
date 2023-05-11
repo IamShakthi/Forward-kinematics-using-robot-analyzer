@@ -60,7 +60,9 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  ## 4 DOF: 
  ![4 DOF 2](https://github.com/IamShakthi/Forward-kinematics-using-robot-analyzer/assets/117913445/1eb94096-826b-4c5f-b69d-a79e9556227d)
 
- 
+
+ ![4 DOF 3](https://github.com/IamShakthi/Forward-kinematics-using-robot-analyzer/assets/117913445/0be0bf0e-ec15-41a6-9924-f2bf089f1bf3)
+
  
  
  
