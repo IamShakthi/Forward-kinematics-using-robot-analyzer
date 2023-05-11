@@ -32,7 +32,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
 
 ### PROCEDURE:
-# 1.open the roboanalyzer software.
+###### 1.open the roboanalyzer software.
 2.select the robot and its degrees of freedom.
 3.change the values with the link lenght wherever necessary.
 4.simulate the model for forward kinematics.
